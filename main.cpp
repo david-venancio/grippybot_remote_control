@@ -15,7 +15,7 @@
  * hand open		: button 0
  * hand close		: button 1
  * This program needs the serial port to which your grippybot (the arduino mega)
- * are connected, usually "/dev/ttyACM0".
+ * is connected, usually "/dev/ttyACM0".
  * example: ./grippybot_remote_control /dev/ttyACM0
  * @date: 2016.11.21
  * @author: David Venancio de Campos
