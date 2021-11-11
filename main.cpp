@@ -21,7 +21,7 @@
  * @date: 2016.11.21
  * @author: David Venancio de Campos
  * @email: dv@3DLibre.com
- * @website: http://3DLibre.com
+ * @website: https://3DLibre.com (offline atm)
  * ****************************************************************************/
 #include <stdio.h>    // Standard input/output definitions
 #include <stdlib.h>
