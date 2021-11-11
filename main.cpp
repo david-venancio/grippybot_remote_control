@@ -1,11 +1,12 @@
 /*******************************************************************************
  * @title: GrippyBot Remote Control
- * @version: 0.01
+ * @version: 0.0.1
  * @status: alpha
  * @description: Remote control for the grippybot using SDL 1.2 Library to 
- * manage input from a gamepad. Sorry but for the moment you have to  customize 
- * the buttons for your gamepad in the SDL_JOYBUTTONDOWN and SDL_JOYAXISMOTION 
- * events. (code based on the SDL1.2 sample)
+ * manage input from a GAMEPAD (playstation type). Sorry but for the moment you 
+ * have to  customize the buttons for your gamepad in the SDL_JOYBUTTONDOWN and 
+ * SDL_JOYAXISMOTION events. (code based on the SDL1.2 sample)
+ *
  * In this version the 4 analogic axis are bound to the 4 servomotors of the arm.
  * button 0 and 1 are bound to open and close the hand (or finger):
  * panoramic servo 	: axis 0
